@@ -1,0 +1,24 @@
+.title {
+    display: flex;
+    align-items: center;
+}
+
+.sigla {
+    width: 50px;
+    height: auto;
+    padding-right: 1rem;
+}
+
+.orange-color {
+    background-color: #F9A826;
+}
+
+.illustration {
+    width: 30%;
+}
+
+#map {
+    width: 100%;
+    height: 350px;
+    border-radius: 10px;
+}
